@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Price list</string>
+    <string name="gd_button">Load pricelist from Google Drive</string>
+    <string name="pricelist_tab">Pricelist</string>
+    <string name="selection_tab">Selection</string>
+    <string name="preference_database">DATABASE</string>
+    <string name="preference_not_existing">Pricelist not loaded</string>
+    <string name="back_to_pricelist">Back to pricelist</string>
+    <string name="action_search">Search...</string>
+    <string name="file_loaded">File loaded</string>
+    <string name="item_added">added to selection</string>
+    <string name="intro">Open a pricelist file:</string>
+
+</resources>

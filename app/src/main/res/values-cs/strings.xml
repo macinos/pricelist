@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ceník</string>
+    <string name="gd_button">Otevřít ceník z Google Disku</string>
+    <string name="intro">Otevřít soubor s ceníkem:</string>
+    <string name="pricelist_tab">Ceník</string>
+    <string name="selection_tab">Výběr</string>
+    <string name="preference_database">DATABASE</string>
+    <string name="preference_not_existing">Ceník nebyl správně načten</string>
+    <string name="back_to_pricelist">Zpět k ceníku</string>
+    <string name="action_search">Vyhledat...</string>
+    <string name="file_loaded">Soubor načten</string>
+    <string name="item_added">přidán do výběru</string>
+</resources>
